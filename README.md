@@ -17,3 +17,8 @@ Python Machine Learning Blueprints
 - Jupyter Notebook (interactive IPython environment)
 - Pandas (data analysis)
 - matplotlib (visualization)
+- seaborn (visualization)
+##Preparation
+- pandas
+##Modeling/Evaluation
+- 
