@@ -21,4 +21,5 @@ Python Machine Learning Blueprints
 ##Preparation
 - pandas
 ##Modeling/Evaluation
-- 
+- statsmodels (statistical modeling)
+- scikit-learn (machine learning)
