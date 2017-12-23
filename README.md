@@ -13,13 +13,16 @@ Python Machine Learning Blueprints
 ## Acquisition
 - RESTFul APIs:
     requests (library)
-##Inspection
+## Inspection/Exploration
 - Jupyter Notebook (interactive IPython environment)
 - Pandas (data analysis)
 - matplotlib (visualization)
 - seaborn (visualization)
-##Preparation
+## Cleaning/Preparation
 - pandas
-##Modeling/Evaluation
+## Modeling/Evaluation
 - statsmodels (statistical modeling)
 - scikit-learn (machine learning)
+## Deployment
+- cron job on local machine
+- Amazon EC2 instance
